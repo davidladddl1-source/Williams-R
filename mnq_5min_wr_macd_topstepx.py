@@ -15,7 +15,7 @@ plt.style.use('fivethirtyeight')
 plt.rcParams['figure.figsize'] = (20, 10)
 
 # ================== CONFIG ==================
-API_KEY = 'YOUR_EODHD_API_KEY_HERE'          # ←←← CHANGE THIS TO YOUR REAL KEY
+API_KEY = 69f91f1d373637.78938150          # ←←← CHANGE THIS TO YOUR REAL KEY
 SYMBOL = 'MNQ'                                # Micro E-mini Nasdaq-100 futures
 INTERVAL = '5m'
 START_DATE = '2024-01-01'                     # Intraday data available ~1 year back
